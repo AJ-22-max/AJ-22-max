@@ -14,7 +14,7 @@ what a screen looks like before the data arrives, and what happens on a slow con
 
 **Currently:** Frontend Engineer at BMG, 2+ years building a multi-tenant CRM
 and commerce platform for African businesses.
-**Portfolio:** [portfolio-three-eta-onu3egb1ns.vercel.app](https://portfolio-three-eta-onu3egb1ns.vercel.app)
+**Portfolio:** [juliet-adue.vercel.app](https://juliet-adue.vercel.app)
 **Open to:** Frontend / Software Engineer roles. Open to relocation.
 
 ---
@@ -139,7 +139,7 @@ checked them, and describe a problem precisely enough that someone else can act 
 
 ## Get in touch
 
-- **Portfolio:** [portfolio-three-eta-onu3egb1ns.vercel.app](https://portfolio-three-eta-onu3egb1ns.vercel.app)
+- **Portfolio:** [juliet-adue.vercel.app](https://juliet-adue.vercel.app)
 - **CV:** [Download my CV (PDF)](https://github.com/AJ-22-max/AJ-22-max/blob/main/Juliet-Ada-Adue-CV.pdf)
 - **Email:** okpejuliet08@gmail.com
 - **GitHub:** [@AJ-22-max](https://github.com/AJ-22-max)

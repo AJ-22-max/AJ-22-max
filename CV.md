@@ -2,7 +2,7 @@
 
 **Frontend Engineer — React & TypeScript**
 
-Abuja, Nigeria | okpejuliet08@gmail.com | github.com/AJ-22-max | portfolio-three-eta-onu3egb1ns.vercel.app
+Abuja, Nigeria | okpejuliet08@gmail.com | github.com/AJ-22-max | juliet-adue.vercel.app
 
 ---
 
