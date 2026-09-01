@@ -14,7 +14,7 @@ the Express/Postgres endpoints behind my own features when that's what ships the
 work faster.
 
 **Currently:** Frontend Engineer at Advanztek, building a multi-tenant CRM platform.
-**Open to:** Frontend / Software Engineer roles in Canada. Relocation-ready.
+**Open to:** Frontend / Software Engineer roles. Open to relocation.
 
 ---
 
@@ -38,8 +38,14 @@ Node.js · Express · PostgreSQL · Redis · AWS S3 · JWT · Joi
 ## Selected work
 
 Most of the code below lives in private company repositories, so I've written up
-what I built and the decisions behind it instead. I'm happy to walk through any
-of it in detail, or screen-share it live.
+what I built and the decisions behind it instead. Where the work *is* public, I've
+linked straight to my commit history so you can read the actual changes.
+
+**Publicly browsable commits:**
+[School Portal](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max) ·
+[Advanztek site](https://github.com/advanztek/advanztek-landing-page/commits?author=AJ-22-max)
+
+I'm happy to walk through any of the private work in detail, or screen-share it live.
 
 ### BMG CRM — multi-tenant CRM & business platform
 `React 18 · MUI · TanStack Query · Zustand · Socket.IO · dnd-kit · Playwright`
@@ -63,13 +69,18 @@ Features I built and own:
   transparency, and added preconnect hints for the media host.
 - **Mobile UX pass** across the dashboard: consistent page headers, responsive
   navigation, and a floating action button pattern for small screens.
+- **Backend work behind my own features** — payment handling, multi-currency and
+  bank details, scheduled automations, and overdue-invoice alerting, built in
+  Express against PostgreSQL and Redis.
 
 ### School Portal — student & staff management
 `TypeScript · React · Turborepo · Node · PostgreSQL`
+**[Browse my 25 commits →](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)**
 
-A monorepo portal covering enrolment, results, sessions, and staff
-administration for secondary schools, with separate applications sharing a
-common component layer.
+A portal covering enrolment, results, sessions, and staff administration for
+secondary schools, built as a monorepo with separate applications sharing a
+common component layer. I worked across the dashboard overview, sign-up and
+authentication flows, and error/toast handling.
 
 ### Marketing & product sites
 `TypeScript · React · Vite · Tailwind · Framer Motion`
@@ -101,7 +112,7 @@ account management screens for a delivery product.
 
 - **Email:** okpejuliet08@gmail.com
 - **GitHub:** [@AJ-22-max](https://github.com/AJ-22-max)
-- **Location:** Abuja, Nigeria (WAT, UTC+1) — open to relocation to Canada
+- **Location:** Abuja, Nigeria (WAT, UTC+1) — open to relocation
 
 Happy to walk through any of the work above on a call, or share a live
 screen-recording walkthrough of the CRM.
