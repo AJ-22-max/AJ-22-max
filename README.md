@@ -24,11 +24,8 @@ work faster.
 React 18 · TypeScript · JavaScript (ES2022) · Vite · React Router
 MUI · Tailwind CSS · Emotion / styled-components · Framer Motion
 
-**State & data**
-TanStack Query · Zustand · Axios · Socket.IO · REST
-
-**Testing & tooling**
-Playwright · React Testing Library · Vitest · ESLint · Git · Turborepo
+**Data & tooling**
+TanStack Query · Axios · REST · dnd-kit · Git · ESLint
 
 ---
 
@@ -45,7 +42,7 @@ linked straight to my commit history so you can read the actual changes.
 I'm happy to walk through any of the private work in detail, or screen-share it live.
 
 ### BMG CRM — multi-tenant CRM & business platform
-`React 18 · MUI · TanStack Query · Zustand · Socket.IO · dnd-kit · Playwright`
+`React 18 · MUI · TanStack Query · Axios · dnd-kit`
 
 An all-in-one platform for small businesses: clients, projects, tasks,
 invoicing, a public storefront, email campaigns, and WhatsApp messaging — each
@@ -60,8 +57,8 @@ Features I built and own:
   SSRF-guarded service) so pasted URLs render as preview cards.
 - **Project & task management** — drag-and-drop boards via dnd-kit, multi-select
   assignees, date-range and assignee filters, and an archive flow.
-- **Admin analytics** — acquisition-channel charts and reporting views built on
-  Recharts.
+- **Admin analytics** — built the acquisition-channel reporting view and the data
+  layer behind it.
 - **Performance work** — cut oversized PNG payloads by roughly 90% while keeping
   transparency, and added preconnect hints for the media host.
 - **Mobile UX pass** across the dashboard: consistent page headers, responsive
@@ -100,7 +97,6 @@ account management screens for a delivery product.
 - I'd rather ask one clarifying question up front than rebuild a feature twice.
 - I care about the boring parts: empty states, loading skeletons, error copy,
   and what happens on a slow connection.
-- I write tests for the flows that would actually cost money if they broke.
 - I review my own diffs before anyone else has to.
 
 ---
