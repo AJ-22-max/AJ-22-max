@@ -13,7 +13,7 @@ I work comfortably across the stack. My centre of gravity is React, but I write
 the Express/Postgres endpoints behind my own features when that's what ships the
 work faster.
 
-**Currently:** Frontend Engineer at Advanztek, building a multi-tenant CRM platform.
+**Currently:** Frontend Engineer & CEO at Advanztek Nig. Ltd, building a multi-tenant CRM platform.
 **Open to:** Frontend / Software Engineer roles. Open to relocation.
 
 ---
@@ -36,7 +36,7 @@ what I built and the decisions behind it instead. Where the work *is* public, I'
 linked straight to my commit history so you can read the actual changes.
 
 **Publicly browsable commits:**
-[School Portal](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max) ·
+[School Portal site](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max) ·
 [Advanztek site](https://github.com/advanztek/advanztek-landing-page/commits?author=AJ-22-max)
 
 I'm happy to walk through any of the private work in detail, or screen-share it live.
@@ -67,22 +67,28 @@ Features I built and own:
   bank details, scheduled automations, and overdue-invoice alerting, built in
   Express against PostgreSQL and Redis.
 
-### School Portal — student & staff management
-`TypeScript · React · Turborepo · Node · PostgreSQL`
-**[Browse my 25 commits →](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)**
+### School Management Dashboard
+`TypeScript · React · Node · PostgreSQL`
 
-A portal covering enrolment, results, sessions, and staff administration for
-secondary schools, built as a monorepo with separate applications sharing a
-common component layer. I worked across the dashboard overview, sign-up and
-authentication flows, and error/toast handling.
+Administrative dashboard for schools — student records, sessions and terms,
+examinations and results, staff administration. What I built:
+
+- **ID card designer** — school logo handling, per-element opacity controls,
+  avatar placeholders, and server-side search in the issue picker.
+- **Session management** — batched subject carry-forward on session creation,
+  with a progress state so a long setup stays visible instead of looking frozen.
+- **Student promotion** — session and term selection with old/new intake handling.
+- **Overview redesign** — short-form class and programme cards, nickname-first tabs.
 
 ### Marketing & product sites
 `TypeScript · React · Vite · Tailwind · Framer Motion`
+**[Browse my 25 commits on the School Portal site →](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)**
 
-Built and shipped the public-facing sites for Fidei Polytechnic, Marvel Jeb Co.
-Ltd, Pamsette Primary School, and BMG CRM — including pricing pages driven by
-live plan data, interactive product demos, and legal/compliance pages. Work
-here was as much about load performance and accessibility as visual design.
+Designed and shipped the public-facing sites for Marvel Jeb Co. Ltd, Fidei
+Polytechnic, Pamsette Primary School, the School Portal site, and BMG CRM —
+including pricing pages driven by live plan data, interactive product demos, and
+legal/compliance pages. Work here was as much about load performance and
+accessibility as visual design.
 
 ### NearDropa — delivery & order tracking
 `TypeScript · React · MUI · Framer Motion`
