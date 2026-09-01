@@ -8,9 +8,9 @@ Abuja, Nigeria | okpejuliet08@gmail.com | github.com/AJ-22-max | portfolio-three
 
 ## SUMMARY
 
-Frontend engineer, two years building production SaaS in React and TypeScript at BMG.
-Own features end to end: interaction design, UI, state and data-fetching, through to QA
-and client feedback. Current work is a multi-tenant CRM and commerce platform serving
+Frontend engineer with 3+ years building production SaaS in React and TypeScript, the
+last 2+ of them at BMG. Own features end to end: interaction design, UI, state and
+data-fetching, through to QA and client feedback. Current work is a multi-tenant CRM and commerce platform serving
 businesses across invoicing, e-commerce, project management and marketing automation.
 I also design and build the public marketing sites in front of it. First Class degree in
 Aerospace Engineering.
@@ -34,7 +34,7 @@ code review, QA and client-reported issue resolution, Agile delivery
 ## PROFESSIONAL EXPERIENCE
 
 ### BMG — Frontend Engineer
-Remote | 2024 – Present
+Remote | 2024 – Present (2+ years)
 
 Multi-tenant CRM and commerce platform for African businesses: clients, projects, tasks,
 invoicing, a public storefront, campaigns and messaging. I own frontend features end to
