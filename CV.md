@@ -78,8 +78,6 @@ moving into building the products myself.
   fixes to confirm the fix held and nothing else moved.
 - Fed findings back as usability observations, not just defect counts.
 
-This is where the habits I still work by came from: assume the edge cases are broken until
-you have checked them, and describe a problem precisely enough that someone else can act on it.
 
 ---
 ## SELECTED PROJECTS
@@ -110,9 +108,6 @@ data-driven pricing pages, interactive product demos and compliance pages, with 
 performance and accessibility as primary concerns.
 [25 public commits on the School Portal site](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)
 
-**NearDropa — Delivery and order tracking**
-*TypeScript, React, MUI, Framer Motion*
-Customer-facing order placement, live order tracking, authentication and account management.
 
 ---
 
@@ -122,8 +117,6 @@ Customer-facing order placement, live order tracking, authentication and account
 Bachelor of Engineering (B.Eng.), Aerospace Engineering — **First Class Honours**
 Graduated September 2024
 
-Final year project: hybrid power management for extended drone flight endurance —
-modelled battery, solar, supercapacitor and fuel-cell configurations in MATLAB and Simulink.
 
 ---
 
@@ -132,5 +125,3 @@ modelled battery, solar, supercapacitor and fuel-cell configurations in MATLAB a
 **Presidential Air Fleet** — Engineering Intern | Jul 2023 – Jan 2024
 **Executive Airlift Group** — Engineering Intern | Sep 2022 – Nov 2022
 
-Industrial training in aviation maintenance and operations environments requiring
-precision, documented procedure and safety-critical attention to detail.
