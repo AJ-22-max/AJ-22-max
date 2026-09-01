@@ -9,9 +9,9 @@ production SaaS — multi-tenant CRM, school management portals, and commerce
 front-ends — for teams where I own features end to end rather than picking up
 tickets.
 
-I work comfortably across the stack. My centre of gravity is React, but I write
-the Express/Postgres endpoints behind my own features when that's what ships the
-work faster.
+I care about the parts that decide whether a product feels finished: complex form
+state that stays predictable, what a screen looks like before the data arrives, and
+what happens on a slow connection.
 
 **Currently:** Frontend Engineer & CEO at Advanztek Nig. Ltd, building a multi-tenant CRM platform.
 **Open to:** Frontend / Software Engineer roles. Open to relocation.
@@ -53,8 +53,9 @@ Features I built and own:
 - **Invoice editor** with stackable tax rules, brand colour picker, logo upload,
   and live preview — the highest-traffic screen in the product.
 - **Attachments system** with in-browser previews for images, video, PDF, and
-  Office documents, plus rich link unfurling (Open Graph fetch behind an
-  SSRF-guarded service) so pasted URLs render as preview cards.
+  Office documents — including previewing a file before it uploads, with object-URL
+  lifecycle handling so cycling through files doesn't leak memory. Pasted links
+  render as rich preview cards.
 - **Project & task management** — drag-and-drop boards via dnd-kit, multi-select
   assignees, date-range and assignee filters, and an archive flow.
 - **Admin analytics** — built the acquisition-channel reporting view and the data
@@ -63,9 +64,6 @@ Features I built and own:
   transparency, and added preconnect hints for the media host.
 - **Mobile UX pass** across the dashboard: consistent page headers, responsive
   navigation, and a floating action button pattern for small screens.
-- **Backend work behind my own features** — payment handling, multi-currency and
-  bank details, scheduled automations, and overdue-invoice alerting, built in
-  Express against PostgreSQL and Redis.
 
 ### School Management Dashboard
 `TypeScript · React · Node · PostgreSQL`
