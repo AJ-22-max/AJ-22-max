@@ -4,16 +4,17 @@
 
 I build the parts of software that people actually touch: dashboards, editors,
 onboarding flows, and the small interactions that decide whether a product feels
-finished or not. Most of my work over the last three years has been on
-production SaaS — multi-tenant CRM, school management portals, and commerce
-front-ends — for teams where I own features end to end rather than picking up
-tickets.
+finished or not. My work is production SaaS: a multi-tenant CRM, school
+management platforms, and the marketing sites in front of them. I own features end to end rather than picking
+up tickets.
 
 I care about the parts that decide whether a product feels finished: complex form
 state that stays predictable, what a screen looks like before the data arrives, and
 what happens on a slow connection.
 
-**Currently:** Frontend Engineer & CEO at Advanztek Nig. Ltd, building a multi-tenant CRM platform.
+**Currently:** Frontend Engineer at BMG, two years building a multi-tenant CRM
+and commerce platform for African businesses.
+**Portfolio:** [aj-22-max portfolio](https://github.com/AJ-22-max/portfolio)
 **Open to:** Frontend / Software Engineer roles. Open to relocation.
 
 ---
@@ -65,7 +66,7 @@ Features I built and own:
 - **Mobile UX pass** across the dashboard: consistent page headers, responsive
   navigation, and a floating action button pattern for small screens.
 
-### School Management Dashboard
+### SchoolPortal — school management platform
 `TypeScript · React`
 
 Administrative dashboard for schools — student records, sessions and terms,
@@ -78,15 +79,30 @@ examinations and results, staff administration. What I built:
 - **Student promotion** — session and term selection with old/new intake handling.
 - **Overview redesign** — short-form class and programme cards, nickname-first tabs.
 
-### Marketing & product sites
+### BMG marketing sites — designed and rebuilt from scratch
+`React · TypeScript · MUI · Vite`
+
+I redesigned and rebuilt both public-facing BMG sites end to end, design through
+to deployment.
+
+- **Homepage and alternative homepage** — full UI design, then built.
+- **Authentication, About, documentation and pricing pages**, with pricing driven
+  by live plan data rather than hardcoded tiers.
+- **Brand refresh** across both sites: new logo assets and a move from the orange
+  accent to the current blue system.
+- **Docs search**, interactive product demos, a case-study toggle, and the
+  legal/compliance pages.
+- **Performance** — compressed the About imagery from roughly **8.9 MB to 340 KB**,
+  and did a separate pass on the CRM site's load speed.
+
+### Client web applications
 `TypeScript · React · Vite · Tailwind · Framer Motion`
 **[Browse my 25 commits on the School Portal site →](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)**
 
-Designed and shipped the public-facing sites for Marvel Jeb Co. Ltd, Fidei
-Polytechnic, Pamsette Primary School, the School Portal site, and BMG CRM —
-including pricing pages driven by live plan data, interactive product demos, and
-legal/compliance pages. Work here was as much about load performance and
-accessibility as visual design.
+Designed and shipped production sites for Marvel Jeb Co. Ltd, Fidei Polytechnic,
+Pamsette Primary School, and the School Portal marketing site — including its
+sign-up and sign-in flows, and fixing SPA routing on deployment. Load performance
+and accessibility treated as primary concerns rather than afterthoughts.
 
 ### NearDropa — delivery & order tracking
 `TypeScript · React · MUI · Framer Motion`

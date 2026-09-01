@@ -2,18 +2,18 @@
 
 **Frontend Engineer — React & TypeScript**
 
-Abuja, Nigeria | okpejuliet08@gmail.com | github.com/AJ-22-max
+Abuja, Nigeria | okpejuliet08@gmail.com | github.com/AJ-22-max | github.com/AJ-22-max/portfolio
 
 ---
 
 ## SUMMARY
 
-Frontend engineer with three years building production SaaS in React and TypeScript.
-Own features end to end — interaction design, UI, state and data-fetching, through
-to QA and client feedback. Current work is a multi-tenant CRM platform serving small businesses
-across invoicing, e-commerce, project management and marketing automation. Now lead
-the company that builds it while remaining hands-on in the codebase daily. First Class
-degree in Aerospace Engineering.
+Frontend engineer, two years building production SaaS in React and TypeScript at BMG.
+Own features end to end: interaction design, UI, state and data-fetching, through to QA
+and client feedback. Current work is a multi-tenant CRM and commerce platform serving
+businesses across invoicing, e-commerce, project management and marketing automation.
+I also design and build the public marketing sites in front of it. First Class degree in
+Aerospace Engineering.
 
 ---
 
@@ -33,15 +33,12 @@ code review, QA and client-reported issue resolution, Agile delivery
 
 ## PROFESSIONAL EXPERIENCE
 
-### ADVANZTEK NIG. LTD. — Abuja, Nigeria
-**Chief Executive Officer** | May 2026 – Present
-**Frontend Engineer / Software Developer** | Jan 2024 – May 2026
+### BMG — Frontend Engineer
+Remote | 2024 – Present
 
-Lead a technology company building digital products for businesses and educational
-institutions. Still a hands-on contributor on the engineering team — the features below
-are my own commits, including work shipped this month.
-
-**Engineering**
+Multi-tenant CRM and commerce platform for African businesses: clients, projects, tasks,
+invoicing, a public storefront, campaigns and messaging. I own frontend features end to
+end, and I design and build the public marketing sites in front of the product.
 
 - Built the invoice editor for a multi-tenant CRM — stackable tax rules, brand colour
   theming, logo upload and live preview. The product's highest-traffic screen.
@@ -59,13 +56,12 @@ are my own commits, including work shipped this month.
 - Led a mobile UX pass across the dashboard: responsive navigation, consistent page
   headers, mobile-first action patterns.
 
-**Leadership**
-
-- Set technical direction and product priorities across concurrent projects.
-- Translated client requirements into technical specifications and delivery plans.
-- Coordinated developers and designers through the full development lifecycle.
-- Mentored junior developers and supervised industrial-training students placed with
-  the company.
+- Redesigned and rebuilt both BMG marketing sites from scratch: homepage, authentication,
+  About, documentation and pricing pages, plus a brand refresh across logo assets and the
+  colour system. Compressed the About imagery from roughly 8.9 MB to 340 KB.
+- Delivered school management platform features: an ID card designer, batched session
+  setup with visible progress, student promotion, and the overview redesign.
+- Mentored junior developers and supervised industrial-training students.
 
 ---
 
