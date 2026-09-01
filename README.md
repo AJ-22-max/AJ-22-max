@@ -14,7 +14,7 @@ what happens on a slow connection.
 
 **Currently:** Frontend Engineer at BMG, two years building a multi-tenant CRM
 and commerce platform for African businesses.
-**Portfolio:** [aj-22-max portfolio](https://github.com/AJ-22-max/portfolio)
+**Portfolio:** [portfolio-three-eta-onu3egb1ns.vercel.app](https://portfolio-three-eta-onu3egb1ns.vercel.app)
 **Open to:** Frontend / Software Engineer roles. Open to relocation.
 
 ---
@@ -123,6 +123,7 @@ account management screens for a delivery product.
 
 ## Get in touch
 
+- **Portfolio:** [portfolio-three-eta-onu3egb1ns.vercel.app](https://portfolio-three-eta-onu3egb1ns.vercel.app)
 - **CV:** [Download my CV (PDF)](https://github.com/AJ-22-max/AJ-22-max/blob/main/Juliet-Ada-Adue-CV.pdf)
 - **Email:** okpejuliet08@gmail.com
 - **GitHub:** [@AJ-22-max](https://github.com/AJ-22-max)
