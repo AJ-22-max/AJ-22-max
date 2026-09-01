@@ -112,6 +112,22 @@ account management screens for a delivery product.
 
 ---
 
+### Freelance QA & website testing
+`Manual testing · Cross-browser · Defect reporting`
+*2023 – 2024, before I moved into building*
+
+Tested websites and web platforms for clients and reported defects against them.
+
+- **Functional and exploratory testing** across browsers, screen sizes and devices.
+- **Reproducible bug reports** — steps to reproduce, expected versus actual behaviour,
+  environment and severity, so an issue could be fixed without a second conversation.
+- **Responsive, broken-state and form-validation checks**, then re-testing after fixes to
+  confirm the fix held and nothing else moved.
+- Fed findings back as usability observations, not just defect counts.
+
+This is where the habits came from: assume the edge cases are broken until you have
+checked them, and describe a problem precisely enough that someone else can act on it.
+
 ## How I work
 
 - I'd rather ask one clarifying question up front than rebuild a feature twice.
