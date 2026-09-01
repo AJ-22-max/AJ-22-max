@@ -30,9 +30,6 @@ TanStack Query · Zustand · Axios · Socket.IO · REST
 **Testing & tooling**
 Playwright · React Testing Library · Vitest · ESLint · Git · Turborepo
 
-**Backend**
-Node.js · Express · PostgreSQL · Redis · AWS S3 · JWT · Joi
-
 ---
 
 ## Selected work
