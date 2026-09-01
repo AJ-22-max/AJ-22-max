@@ -15,6 +15,7 @@ businesses across invoicing, e-commerce, project management and marketing automa
 I also design and build the public marketing sites in front of it. First Class degree in
 Aerospace Engineering.
 
+
 ---
 
 ## TECHNICAL SKILLS
@@ -28,6 +29,38 @@ React Router, Material UI (MUI), Tailwind CSS, Emotion, styled-components, Frame
 
 **Practices:** Responsive web design, web performance optimization, accessibility,
 code review, manual QA, cross-browser and responsive testing, defect reporting, Agile delivery
+
+
+---
+
+## SELECTED PROJECTS
+
+**BMG CRM — Multi-tenant CRM and business platform**
+*React 18, MUI, TanStack Query, Axios, dnd-kit*
+All-in-one platform for small businesses: clients, projects, tasks, invoicing, public
+storefront, email campaigns and WhatsApp messaging — each tenant with its own branding,
+currency and domain. Frontend feature ownership plus the backend behind those features.
+
+**School Management Dashboard**
+*TypeScript, React*
+Administrative dashboard for schools covering student records, sessions and terms,
+examinations and results, and staff administration. My contributions:
+
+- ID card designer — school logo handling, per-element opacity controls, avatar
+  placeholders, and server-side search in the issue picker
+- Session management — batched subject carry-forward on session creation, with a
+  progress state so long-running setup stays visible rather than appearing frozen
+- Student promotion — session and term selection with old/new intake handling
+- Overview redesign — short-form class and programme cards, nickname-first class tabs
+
+**Client Web Applications**
+*TypeScript, React, Vite, Tailwind CSS, Framer Motion*
+Designed and shipped production sites for Marvel Jeb Co. Ltd, Fidei Polytechnic,
+Pamsette Primary School, the School Portal marketing site and BMG CRM — including
+data-driven pricing pages, interactive product demos and compliance pages, with load
+performance and accessibility as primary concerns.
+[25 public commits on the School Portal site](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)
+
 
 ---
 
@@ -80,36 +113,6 @@ moving into building the products myself.
 
 
 ---
-## SELECTED PROJECTS
-
-**BMG CRM — Multi-tenant CRM and business platform**
-*React 18, MUI, TanStack Query, Axios, dnd-kit*
-All-in-one platform for small businesses: clients, projects, tasks, invoicing, public
-storefront, email campaigns and WhatsApp messaging — each tenant with its own branding,
-currency and domain. Frontend feature ownership plus the backend behind those features.
-
-**School Management Dashboard**
-*TypeScript, React*
-Administrative dashboard for schools covering student records, sessions and terms,
-examinations and results, and staff administration. My contributions:
-
-- ID card designer — school logo handling, per-element opacity controls, avatar
-  placeholders, and server-side search in the issue picker
-- Session management — batched subject carry-forward on session creation, with a
-  progress state so long-running setup stays visible rather than appearing frozen
-- Student promotion — session and term selection with old/new intake handling
-- Overview redesign — short-form class and programme cards, nickname-first class tabs
-
-**Client Web Applications**
-*TypeScript, React, Vite, Tailwind CSS, Framer Motion*
-Designed and shipped production sites for Marvel Jeb Co. Ltd, Fidei Polytechnic,
-Pamsette Primary School, the School Portal marketing site and BMG CRM — including
-data-driven pricing pages, interactive product demos and compliance pages, with load
-performance and accessibility as primary concerns.
-[25 public commits on the School Portal site](https://github.com/advanztek/sch_portal/commits?author=AJ-22-max)
-
-
----
 
 ## EDUCATION
 
@@ -124,4 +127,3 @@ Graduated September 2024
 
 **Presidential Air Fleet** — Engineering Intern | Jul 2023 – Jan 2024
 **Executive Airlift Group** — Engineering Intern | Sep 2022 – Nov 2022
-
