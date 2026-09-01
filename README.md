@@ -107,6 +107,7 @@ account management screens for a delivery product.
 
 ## Get in touch
 
+- **CV:** [Download my CV (PDF)](https://github.com/AJ-22-max/AJ-22-max/blob/main/Juliet-Ada-Adue-CV.pdf)
 - **Email:** okpejuliet08@gmail.com
 - **GitHub:** [@AJ-22-max](https://github.com/AJ-22-max)
 - **Location:** Abuja, Nigeria (WAT, UTC+1) — open to relocation
