@@ -1,4 +1,4 @@
-# Juliet Okpe
+# Juliet Ada Adue
 
 **Frontend Engineer — React & TypeScript**
 
