@@ -66,7 +66,7 @@ Features I built and own:
   navigation, and a floating action button pattern for small screens.
 
 ### School Management Dashboard
-`TypeScript · React · Node · PostgreSQL`
+`TypeScript · React`
 
 Administrative dashboard for schools — student records, sessions and terms,
 examinations and results, staff administration. What I built:
