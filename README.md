@@ -8,9 +8,9 @@ finished or not. I have 3+ years on production SaaS: a multi-tenant CRM, school
 management platforms, and the marketing sites in front of them. I own features end to end rather than picking
 up tickets.
 
-I care about the parts that decide whether a product feels finished: complex form
-state that stays predictable, what a screen looks like before the data arrives, and
-what happens on a slow connection.
+I started out in QA, testing websites and platforms and writing bug reports before
+I built them. It shows in what I care about: complex form state that stays predictable,
+what a screen looks like before the data arrives, and what happens on a slow connection.
 
 **Currently:** Frontend Engineer at BMG, 2+ years building a multi-tenant CRM
 and commerce platform for African businesses.

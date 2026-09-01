@@ -27,7 +27,7 @@ React Router, Material UI (MUI), Tailwind CSS, Emotion, styled-components, Frame
 **Tooling:** Git, GitHub, ESLint, npm, Vite
 
 **Practices:** Responsive web design, web performance optimization, accessibility,
-code review, QA and client-reported issue resolution, Agile delivery
+code review, manual QA, cross-browser and responsive testing, defect reporting, Agile delivery
 
 ---
 
@@ -65,6 +65,23 @@ end, and I design and build the public marketing sites in front of the product.
 
 ---
 
+### Freelance QA and Website Testing
+Remote | 2023 – 2024
+
+Tested websites and web platforms for clients and reported defects against them, before
+moving into building the products myself.
+
+- Manual functional and exploratory testing across browsers, screen sizes and devices.
+- Wrote reproducible bug reports: steps to reproduce, expected versus actual behaviour,
+  environment, and severity, so issues could be fixed without a second conversation.
+- Checked responsive behaviour, broken states and form validation, and re-tested after
+  fixes to confirm the fix held and nothing else moved.
+- Fed findings back as usability observations, not just defect counts.
+
+This is where the habits I still work by came from: assume the edge cases are broken until
+you have checked them, and describe a problem precisely enough that someone else can act on it.
+
+---
 ## SELECTED PROJECTS
 
 **BMG CRM — Multi-tenant CRM and business platform**
