@@ -12,10 +12,10 @@ I started out in QA, testing websites and platforms and writing bug reports befo
 I built them. It shows in what I care about: complex form state that stays predictable,
 what a screen looks like before the data arrives, and what happens on a slow connection.
 
-**Currently:** Frontend Engineer at BMG, 2+ years building a multi-tenant CRM
-and commerce platform for African businesses.
+**Currently:** Frontend Engineer at BMG since January 2026, building a multi-tenant
+CRM and commerce platform for African businesses.
 **Portfolio:** [juliet-adue.vercel.app](https://juliet-adue.vercel.app)
-**Open to:** Frontend / Software Engineer roles. Open to relocation.
+**Open to:** Frontend / Software Engineer roles. Open to relocation to Canada (VanHack).
 
 ---
 
@@ -66,8 +66,8 @@ Features I built and own:
 - **Mobile UX pass** across the dashboard: consistent page headers, responsive
   navigation, and a floating action button pattern for small screens.
 
-### SchoolPortal — school management platform
-`TypeScript · React`
+### Advanztek Nig. Ltd — school management dashboard
+`TypeScript · React` · *Frontend Developer, 2024 – 2025*
 
 Administrative dashboard for schools — student records, sessions and terms,
 examinations and results, staff administration. What I built:
@@ -143,7 +143,7 @@ checked them, and describe a problem precisely enough that someone else can act 
 - **CV:** [Download my CV (PDF)](https://github.com/AJ-22-max/AJ-22-max/blob/main/Juliet-Ada-Adue-CV.pdf)
 - **Email:** okpejuliet08@gmail.com
 - **GitHub:** [@AJ-22-max](https://github.com/AJ-22-max)
-- **Location:** Abuja, Nigeria (WAT, UTC+1) — open to relocation
+- **Location:** Abuja, Nigeria (WAT, UTC+1) — open to relocation to Canada (VanHack)
 
 Happy to walk through any of the work above on a call, or share a live
 screen-recording walkthrough of the CRM.
