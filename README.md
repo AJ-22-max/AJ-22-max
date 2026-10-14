@@ -22,11 +22,18 @@ CRM and commerce platform for African businesses.
 ## Tech
 
 **Frontend**
-React 18 · TypeScript · JavaScript (ES2022) · Vite · React Router
+React 18/19 · TypeScript · JavaScript (ES2022) · Vite · React Router
 MUI · Tailwind CSS · Emotion / styled-components · Framer Motion
 
-**Data & tooling**
-TanStack Query · Axios · REST · dnd-kit · Git · ESLint
+**State & data**
+TanStack Query · Context API · Axios · REST · dnd-kit
+
+**Backend**
+Node.js serverless functions (Vercel) · PostgreSQL (Neon) · REST API design
+Authentication · File uploads · Paystack (payments + webhooks) · CMS / admin dashboards
+
+**Tooling**
+Git · ESLint · npm · Vite
 
 ---
 
@@ -103,6 +110,34 @@ Designed and shipped production sites for Marvel Jeb Co. Ltd, Fidei Polytechnic,
 Pamsette Primary School, and the School Portal marketing site — including its
 sign-up and sign-in flows, and fixing SPA routing on deployment. Load performance
 and accessibility treated as primary concerns rather than afterthoughts.
+
+### REM Church — full-stack church & community platform
+`React 19 · TypeScript · MUI · Tailwind · Neon Postgres · Paystack · Vercel` · *Freelance, full-stack*
+
+A multi-section church platform — sermons, devotionals, events, branches, livestream,
+gallery, news, and prayer requests — that I built end to end: a React/TypeScript
+frontend and a serverless backend on Neon Postgres.
+
+- **Online giving** — Paystack payments with server-side webhooks, so a gift is
+  recorded only once the money actually clears.
+- **Content-managed** — an admin dashboard that edits the homepage, uploads media,
+  reads the message inbox, and controls the livestream, so the church runs the site
+  without touching code.
+- **Backend** — authentication and file uploads handled in the serverless API,
+  deployed on Vercel with push-to-deploy.
+
+### Virtuous Woman Couture — e-commerce storefront
+`React 19 · TypeScript · Vite · Context API` · *Freelance*
+
+A premium made-to-measure fashion storefront.
+
+- **Shop** — catalog with category filters, a price slider, search and sorting;
+  product pages with colour/size and made-to-measure selection; a cart and checkout
+  built on React Context.
+- **Accounts** — sign in with email or Google, with a protected customer dashboard
+  for orders, body measurements, shipping addresses, and a wishlist.
+- **Details** — multi-currency pricing (£/$/C$/₦), dark mode, and a custom luxury
+  design system, fully responsive.
 
 ### NearDropa — delivery & order tracking
 `TypeScript · React · MUI · Framer Motion`
