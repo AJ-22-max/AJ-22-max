@@ -64,7 +64,7 @@ Multi-tenant CRM and commerce platform for African businesses: clients, projects
 - Redesigned and rebuilt both BMG marketing sites from scratch: homepage, authentication, About, documentation and pricing pages, plus a brand refresh across logo assets and the colour system. Compressed the About imagery from roughly 8.9 MB to 340 KB.
 
 ### Advanztek Nig. Ltd — Frontend Developer
-Remote | 2024 – 2025
+Remote | 2023 – 2025
 
 Built and maintained an administrative dashboard for schools, covering student records, sessions and terms, examinations and results, and staff administration.
 

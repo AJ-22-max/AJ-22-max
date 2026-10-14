@@ -74,7 +74,7 @@ Features I built and own:
   navigation, and a floating action button pattern for small screens.
 
 ### Advanztek Nig. Ltd — school management dashboard
-`TypeScript · React` · *Frontend Developer, 2024 – 2025*
+`TypeScript · React` · *Frontend Developer, 2023 – 2025*
 
 Administrative dashboard for schools — student records, sessions and terms,
 examinations and results, staff administration. What I built:
